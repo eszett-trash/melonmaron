@@ -7,6 +7,6 @@
 
 **사용법**
 
-![Alt text](/etc/img.jpg)
+<img src = "https://github.com/eszett-trash/melonmaron/blob/master/etc/img.JPG?raw=true">
 
 더 자세한 사용법은 물어보세요 0ㅁ0)>
