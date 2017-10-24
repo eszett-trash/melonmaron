@@ -21,4 +21,6 @@
 <img src = "https://github.com/eszett-trash/melonmaron/blob/master/999_etc/img.JPG?raw=true">
 
 
-더 자세한 사용법은 물어보세요 0ㅁ0)
+보통은 branch를 생성해서 수정 한 다음 문제없다는게 확인 된다면 이걸 기본 프로젝트에 합치는 방식인데,<br>
+코드가 아니라서 그냥 기본 프로젝트에 작업해도 될것같아요 XD!<br>
+모르거나 이상한거 잇으면 저한테 말씀해주시기 ㅜ
