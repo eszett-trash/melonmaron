@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-﻿﻿https://github.com/eszett-trash/melonmaron
-=======
-﻿https://github.com/eszett-trash/melonmaron
->>>>>>> 18595956e777d651336e4ff574d4213e46facb97
- 
- <br><br>
+<br><br>
 
 **D페스타**
 
